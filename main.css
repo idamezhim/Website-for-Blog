@@ -72,7 +72,7 @@ body{
      font-style: italic;
      margin-bottom: 30px;
  }
- section .caveat span{
+ section .caveat a{
      color: #4dccff;
  }
  footer h3{
