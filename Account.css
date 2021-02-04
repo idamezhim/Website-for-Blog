@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(39, 116, 146);
+    background-color: white;
     margin:0;
     font-family: 'Vollkorn',serif;
  }
@@ -54,7 +54,7 @@ body{
      border-bottom: 1px solid #eee;
      padding-bottom: 30px;
  }
- section p{
+ section li{
      color: #555555;
      font-size: 20px;
      margin-bottom: 30px;
