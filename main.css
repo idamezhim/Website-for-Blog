@@ -97,4 +97,9 @@ body{
      color: #82a0bc;
      margin-top: 50px;
  }
- 
+ @media only screen and (max-width: 600px){
+    body{
+        font-size: 0.8em;
+        padding: 0;
+    }
+}
