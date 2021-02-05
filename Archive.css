@@ -104,9 +104,12 @@ body{
     }
 }
 .Poems{
-    list-style: none;
+    line-height: 40px;
 }
 .Poems li a {
-    color: #8d9fa7;;
-    text-decoration: none
+    color:#555555;
+}
+.Poems li a:hover{
+    color: #4dccff;
+    cursor: pointer;
 }
