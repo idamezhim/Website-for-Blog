@@ -61,18 +61,38 @@ body{
      font-family: 'Times New Roman', Times, serif;
      line-height: 30px;
  }
- section ul{
+ section .dash{
+     width: 30px;
+     border: 1px solid rgb(206, 183, 183);
+     float: left;
+     margin-bottom: 20px;
+ }
+ section .caveat{
+     font-size: 16px;
+     font-style: italic;
+     margin-bottom: 30px;
+ }
+ section .caveat a{
+     color: #4dccff;
+ }
+ footer h3{
+     font-size: 15px;
+     font-family:Arial, Helvetica, sans-serif ;
+     padding-left: o;
+     list-style: none;
+ }
+ footer ul{
      padding-left: 0;
      list-style: none;    
  }
- section li a {
+ footer li a {
      margin-bottom: 10px;
      color: #82A0BC;
      list-style: none;
      text-decoration: none;
      line-height: 30px;
  }
- section p{
+ footer p{
      font: size 12px;
      color: #82a0bc;
      margin-top: 50px;
@@ -82,4 +102,11 @@ body{
         font-size: 0.8em;
         padding: 0;
     }
+}
+.Poems{
+    list-style: none;
+}
+.Poems li a {
+    color: #8d9fa7;;
+    text-decoration: none
 }
