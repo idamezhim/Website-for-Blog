@@ -101,5 +101,6 @@ body{
     body{
         font-size: 0.8em;
         padding: 0;
+        width: 100%;
     }
 }
